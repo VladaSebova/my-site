@@ -1,0 +1,33 @@
+{ "Kittens": [
+	{
+		"Name": "Blacky",
+		"Breed": "Maine Coon", 
+		"Colour": "Black",
+        	"Have documents?": true
+	},
+{
+		"Name": "Milo",
+		"Breed": "Persian Cat", 
+		"Colour": "Brown",
+        	"Have documents?": true
+	},
+{
+		"Name": "Tails",
+		"Breed": "Straight Cat", 
+		"Colour": "Black",
+        	"Have documents?": false
+	},
+{
+		"Name": "Kisuma",
+		"Breed": "Munchkin Cat", 
+		"Colour": "Black",
+        	"Have documents?": true
+	},
+{
+		"Name": "Snowflake",
+		"Breed": "Persian Cat", 
+		"Colour": "White",
+        	"Have documents?": false
+	},
+]
+}

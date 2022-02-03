@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Kittens>
+      <element>
+         <Breed>MaineCoon</Breed>
+         <Colour>Black</Colour>
+         <Havedocuments>true</Havedocuments>
+         <Name>Blacky</Name>
+      </element>
+      <element>
+         <Breed>PersianCat</Breed>
+         <Colour>Brown</Colour>
+         <Havedocuments>true</Havedocuments>
+         <Name>Milo</Name>
+      </element>
+      <element>
+         <Breed>StraightCat</Breed>
+         <Colour>Black</Colour>
+         <Havedocuments>false</Havedocuments>
+         <Name>Tails</Name>
+      </element>
+      <element>
+         <Breed>MunchkinCat</Breed>
+         <Colour>Black</Colour>
+         <Havedocuments>true</Havedocuments>
+         <Name>Kisuma</Name>
+      </element>
+      <element>
+         <Breed>PersianCat</Breed>
+         <Colour>White</Colour>
+         <Havedocuments>false</Havedocuments>
+         <Name>Snowflake</Name>
+      </element>
+   </Kittens>
+</root>
