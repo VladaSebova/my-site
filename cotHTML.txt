@@ -1,0 +1,43 @@
+<table>
+	<thead>
+		<tr>
+			<td>Name</td>
+			<td>Breed</td>
+			<td>Colour</td>
+			<td>Have documents?</td>
+		</tr>
+	</thead>
+	<tr>
+		<td>Blacky</td>
+		<td>Maine Coon</td>
+		<td>Black</td>
+		<td>true</td>
+	</tr>
+	<tr>
+		<td>Milo</td>
+		<td>Persian Cat</td>
+		<td>Brown</td>
+		<td>true</td>
+	</tr>
+	<tr>
+		<td>Tails</td>
+		<td>Straight Cat</td>
+		<td>Black</td>
+		<td>false</td>
+	</tr>
+	<tr>
+		<td>Kisuma</td>
+		<td>Munchkin Cat</td>
+		<td>Black</td>
+		<td>true</td>
+	</tr>
+	<tr>
+		<td>Snowflake</td>
+		<td>Persian Cat</td>
+		<td>White</td>
+		<td>false</td>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+</table>
