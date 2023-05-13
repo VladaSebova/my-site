@@ -1,7 +1,7 @@
 { "Kittens": [
 	{
 		"Name": "Blacky",
-		"Breed": "Maine Coon", 
+		"Breed": "Main Coon", 
 		"Colour": "Black",
         	"Have documents?": true
 	},
